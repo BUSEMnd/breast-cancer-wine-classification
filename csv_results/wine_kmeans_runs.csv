@@ -1,0 +1,7 @@
+run_id,dataset,seed,representation,n_clusters,train_inertia,val_ari,val_silhouette
+wine_kmeans_unscaled_k3_s42,Wine,42,unscaled,3,1350496.4591,0.2828,0.487
+wine_kmeans_scaled_k3_s42,Wine,42,scaled,3,874.7391,1.0,0.2516
+wine_kmeans_unscaled_k3_s52,Wine,52,unscaled,3,1303674.8207,0.4006,0.5559
+wine_kmeans_scaled_k3_s52,Wine,52,scaled,3,890.4355,1.0,0.301
+wine_kmeans_unscaled_k3_s62,Wine,62,unscaled,3,1390754.2171,0.4006,0.6867
+wine_kmeans_scaled_k3_s62,Wine,62,scaled,3,872.2466,1.0,0.2726

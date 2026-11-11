@@ -1,0 +1,2 @@
+dataset,selected_configuration,evaluation_seed,mean_val_f1,std_val_f1,test_acc,test_precision,test_recall,test_f1,test_roc_auc
+Wine,KNN_scaled_n_neighbors=11,42,0.9814,0.0323,1.0,1.0,1.0,1.0,1.0

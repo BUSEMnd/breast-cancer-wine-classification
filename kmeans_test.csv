@@ -1,0 +1,5 @@
+dataset,representation,evaluation_seed,n_clusters,test_ari,test_silhouette
+Breast Cancer,unscaled,42,2,0.5585,0.712
+Breast Cancer,scaled,42,2,0.7354,0.3251
+Wine,unscaled,42,3,0.3733,0.4929
+Wine,scaled,42,3,0.9088,0.2711
